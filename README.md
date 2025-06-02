@@ -23,10 +23,10 @@ print the characters and its huffmancode.
 
  
 ## Program:
-```
-Developed by : Amaljosh Maadhav J
-Register no  : 212223230012
-```
+
+## Developed by : Ashwina K N
+## Register no  : 212223230025
+
 ```
 input_string = "aggressiveness"
 # Example input string
